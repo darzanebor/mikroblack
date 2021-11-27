@@ -4,7 +4,6 @@
 
 - https://www.spamhaus.org/drop/drop.txt
 - https://www.spamhaus.org/drop/edrop.txt
-- https://www.spamhaus.org/drop/dropv6.txt
 - https://check.torproject.org/torbulkexitlist?ip=1.2.3.4
 - https://www.talosintelligence.com/documents/ip-blacklist
 - https://iplists.firehol.org/files/et_block.netset
