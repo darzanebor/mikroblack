@@ -1,1 +1,36 @@
-# mikroblack
+# Mikrotik Blacklist
+
+#### Blacklists
+
+- https://www.spamhaus.org/drop/drop.txt
+- https://www.spamhaus.org/drop/edrop.txt
+- https://www.spamhaus.org/drop/dropv6.txt
+- https://check.torproject.org/torbulkexitlist?ip=1.2.3.4
+- https://www.talosintelligence.com/documents/ip-blacklist
+- https://iplists.firehol.org/files/et_block.netset
+- https://iplists.firehol.org/files/bds_atif.ipset
+- https://iplists.firehol.org/files/alienvault_reputation.ipset
+- https://iplists.firehol.org/files/dshield.netset
+- https://iplists.firehol.org/files/firehol_level3.netset
+- https://iplists.firehol.org/files/talosintel_ipfilter.ipset
+- https://iplists.firehol.org/files/ransomware_rw.ipset
+- https://iplists.firehol.org/files/feodo.ipset
+- https://iplists.firehol.org/files/firehol_webclient.netset
+- https://iplists.firehol.org/files/blocklist_de_ssh.ipset
+
+#### How to run this on MT
+Run following to your MT device with not less that 7d schedule (sources are not updated more frequently anyway):  
+
+Download script:  
+`/tool fetch url="https://raw.githubusercontent.com/darzanebor/mikroblack/master/blacklist/blacklist.rsc" mode=https`  
+
+Install script:  
+`/ip firewall address-list remove [find where list="hole-blacklist"]; /import file-name=blacklist.rsc`
+
+You'll also need firewall rule:  
+`/ip firewall filter add chain=input action=drop connection-state=new src-address-list=hole-blacklist in-interface=IFNAME`
+
+*Note:
+  Replace IFNAME in-interface name with one you have configured*
+  
+ *Rotation Period 7d*
