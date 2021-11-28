@@ -10,7 +10,13 @@
 - https://iplists.firehol.org/files/bds_atif.ipset
 - https://iplists.firehol.org/files/alienvault_reputation.ipset
 - https://iplists.firehol.org/files/dshield.netset
-- https://iplists.firehol.org/files/firehol_level3.netset
+- https://iplists.firehol.org/files/firehol_level1.netset
+- https://iplists.firehol.org/files/firehol_level2.netset
+- https://iplists.firehol.org/files/bitcoin_nodes_1d.ipset
+- https://iplists.firehol.org/files/bitcoin_nodes_7d.ipset
+- https://iplists.firehol.org/files/bitcoin_nodes_30d.ipset
+- https://iplists.firehol.org/files/blocklist_de_bruteforce.ipset
+- https://iplists.firehol.org/files/et_block.netset
 - https://iplists.firehol.org/files/talosintel_ipfilter.ipset
 - https://iplists.firehol.org/files/ransomware_rw.ipset
 - https://iplists.firehol.org/files/feodo.ipset
