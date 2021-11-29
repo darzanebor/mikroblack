@@ -22,6 +22,15 @@
 - https://iplists.firehol.org/files/feodo.ipset
 - https://iplists.firehol.org/files/firehol_webclient.netset
 - https://iplists.firehol.org/files/blocklist_de_ssh.ipset
+- https://iplists.firehol.org/files/cta_cryptowall.ipset
+- https://iplists.firehol.org/files/et_block.netset
+- https://iplists.firehol.org/files/et_compromised.ipset
+- https://iplists.firehol.org/files/et_dshield.netset
+- https://iplists.firehol.org/files/et_spamhaus.netset
+- https://iplists.firehol.org/files/et_tor.ipset
+- https://iplists.firehol.org/files/cta_cryptowall.ipset
+- https://iplists.firehol.org/files/nullsecure.ipset
+- https://iplists.firehol.org/files/coinbl_ips.ipset
 
 #### How to run this on MT
 Run following to your MT device with not less that 7d schedule (sources are not updated more frequently anyway):  
