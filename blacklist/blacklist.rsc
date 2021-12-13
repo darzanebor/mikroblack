@@ -13,10 +13,8 @@ add list=hole-blacklist address=0.21.0.1
 add list=hole-blacklist address=0.21.1.1
 add list=hole-blacklist address=0.21.2.1
 add list=hole-blacklist address=0.90.9.1
-add list=hole-blacklist address=1.0.0.1
 add list=hole-blacklist address=1.0.1.3
 add list=hole-blacklist address=1.0.1.4
-add list=hole-blacklist address=1.1.1.1
 add list=hole-blacklist address=1.1.107.64
 add list=hole-blacklist address=1.1.156.99
 add list=hole-blacklist address=1.1.158.159
