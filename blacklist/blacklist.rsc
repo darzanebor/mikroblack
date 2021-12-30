@@ -13657,6 +13657,7 @@ add list=hole-blacklist address=62.4.13.5
 add list=hole-blacklist address=62.4.14.183
 add list=hole-blacklist address=62.4.14.198
 add list=hole-blacklist address=62.4.15.84
+add list=hole-blacklist address=62.4.42.201
 add list=hole-blacklist address=62.10.180.214
 add list=hole-blacklist address=62.11.165.189
 add list=hole-blacklist address=62.13.193.206
@@ -16264,6 +16265,7 @@ add list=hole-blacklist address=72.69.106.36
 add list=hole-blacklist address=72.69.119.3
 add list=hole-blacklist address=72.70.32.56
 add list=hole-blacklist address=72.70.46.4
+add list=hole-blacklist address=72.70.61.85
 add list=hole-blacklist address=72.70.61.97
 add list=hole-blacklist address=72.70.61.136
 add list=hole-blacklist address=72.70.61.146
@@ -19832,6 +19834,7 @@ add list=hole-blacklist address=80.211.254.143
 add list=hole-blacklist address=80.212.44.24
 add list=hole-blacklist address=80.213.3.52
 add list=hole-blacklist address=80.217.149.145
+add list=hole-blacklist address=80.218.72.32
 add list=hole-blacklist address=80.218.90.45
 add list=hole-blacklist address=80.218.132.218
 add list=hole-blacklist address=80.218.199.202
@@ -20037,7 +20040,6 @@ add list=hole-blacklist address=81.36.112.81
 add list=hole-blacklist address=81.36.112.139
 add list=hole-blacklist address=81.36.112.246
 add list=hole-blacklist address=81.38.125.106
-add list=hole-blacklist address=81.40.210.166
 add list=hole-blacklist address=81.43.105.3
 add list=hole-blacklist address=81.44.41.129
 add list=hole-blacklist address=81.44.90.40
@@ -22018,6 +22020,7 @@ add list=hole-blacklist address=84.214.176.227
 add list=hole-blacklist address=84.215.249.226
 add list=hole-blacklist address=84.216.43.91
 add list=hole-blacklist address=84.216.51.36
+add list=hole-blacklist address=84.216.120.137
 add list=hole-blacklist address=84.216.160.75
 add list=hole-blacklist address=84.217.84.13
 add list=hole-blacklist address=84.220.221.130
@@ -24839,6 +24842,7 @@ add list=hole-blacklist address=89.185.200.130
 add list=hole-blacklist address=89.186.8.228
 add list=hole-blacklist address=89.186.10.35
 add list=hole-blacklist address=89.186.11.123
+add list=hole-blacklist address=89.186.12.100
 add list=hole-blacklist address=89.186.21.109
 add list=hole-blacklist address=89.187.143.31
 add list=hole-blacklist address=89.187.143.81
@@ -30579,6 +30583,7 @@ add list=hole-blacklist address=101.99.6.59
 add list=hole-blacklist address=101.99.14.49
 add list=hole-blacklist address=101.99.20.59
 add list=hole-blacklist address=101.99.33.237
+add list=hole-blacklist address=101.99.52.174
 add list=hole-blacklist address=101.99.55.154
 add list=hole-blacklist address=101.99.68.58
 add list=hole-blacklist address=101.100.139.83
@@ -41113,6 +41118,7 @@ add list=hole-blacklist address=116.105.170.217
 add list=hole-blacklist address=116.105.171.188
 add list=hole-blacklist address=116.105.172.122
 add list=hole-blacklist address=116.105.172.160
+add list=hole-blacklist address=116.105.173.36
 add list=hole-blacklist address=116.105.174.66
 add list=hole-blacklist address=116.105.178.34
 add list=hole-blacklist address=116.105.180.64
@@ -41656,6 +41662,7 @@ add list=hole-blacklist address=117.56.213.164
 add list=hole-blacklist address=117.56.214.178
 add list=hole-blacklist address=117.57.28.164
 add list=hole-blacklist address=117.57.29.147
+add list=hole-blacklist address=117.57.40.115
 add list=hole-blacklist address=117.57.40.228
 add list=hole-blacklist address=117.57.42.180
 add list=hole-blacklist address=117.57.43.171
@@ -52464,6 +52471,7 @@ add list=hole-blacklist address=151.35.173.141
 add list=hole-blacklist address=151.37.98.234
 add list=hole-blacklist address=151.37.115.50
 add list=hole-blacklist address=151.37.119.68
+add list=hole-blacklist address=151.37.195.153
 add list=hole-blacklist address=151.38.94.11
 add list=hole-blacklist address=151.38.155.81
 add list=hole-blacklist address=151.42.138.172
@@ -58089,6 +58097,7 @@ add list=hole-blacklist address=177.10.175.10
 add list=hole-blacklist address=177.10.209.224
 add list=hole-blacklist address=177.10.240.112
 add list=hole-blacklist address=177.10.240.119
+add list=hole-blacklist address=177.10.241.111
 add list=hole-blacklist address=177.11.40.50
 add list=hole-blacklist address=177.11.40.61
 add list=hole-blacklist address=177.11.40.94
@@ -58240,6 +58249,7 @@ add list=hole-blacklist address=177.43.122.102
 add list=hole-blacklist address=177.43.215.39
 add list=hole-blacklist address=177.43.240.27
 add list=hole-blacklist address=177.43.243.120
+add list=hole-blacklist address=177.44.16.251
 add list=hole-blacklist address=177.44.17.6
 add list=hole-blacklist address=177.44.17.29
 add list=hole-blacklist address=177.44.17.103
@@ -63571,6 +63581,7 @@ add list=hole-blacklist address=185.142.239.173
 add list=hole-blacklist address=185.142.239.187
 add list=hole-blacklist address=185.143.220.236
 add list=hole-blacklist address=185.144.83.131
+add list=hole-blacklist address=185.144.172.216
 add list=hole-blacklist address=185.144.180.0/22
 add list=hole-blacklist address=185.145.45.156
 add list=hole-blacklist address=185.145.128.21
@@ -63841,6 +63852,7 @@ add list=hole-blacklist address=185.183.194.48
 add list=hole-blacklist address=185.183.194.90
 add list=hole-blacklist address=185.183.195.23
 add list=hole-blacklist address=185.183.243.160
+add list=hole-blacklist address=185.184.0.19
 add list=hole-blacklist address=185.184.12.132
 add list=hole-blacklist address=185.184.25.98
 add list=hole-blacklist address=185.184.25.237
@@ -66292,6 +66304,7 @@ add list=hole-blacklist address=188.165.236.122
 add list=hole-blacklist address=188.165.236.168
 add list=hole-blacklist address=188.165.238.199
 add list=hole-blacklist address=188.165.244.143
+add list=hole-blacklist address=188.165.249.85
 add list=hole-blacklist address=188.165.251.208
 add list=hole-blacklist address=188.165.254.85
 add list=hole-blacklist address=188.165.255.8
@@ -74342,6 +74355,7 @@ add list=hole-blacklist address=212.8.242.35
 add list=hole-blacklist address=212.8.248.7
 add list=hole-blacklist address=212.8.248.120
 add list=hole-blacklist address=212.8.250.141
+add list=hole-blacklist address=212.10.124.184
 add list=hole-blacklist address=212.12.54.87
 add list=hole-blacklist address=212.12.128.102
 add list=hole-blacklist address=212.12.170.147
@@ -75968,6 +75982,7 @@ add list=hole-blacklist address=217.116.132.218
 add list=hole-blacklist address=217.117.17.17
 add list=hole-blacklist address=217.118.23.69
 add list=hole-blacklist address=217.118.24.178
+add list=hole-blacklist address=217.120.139.4
 add list=hole-blacklist address=217.121.94.13
 add list=hole-blacklist address=217.122.45.240
 add list=hole-blacklist address=217.123.112.18
@@ -76353,6 +76368,7 @@ add list=hole-blacklist address=218.41.17.40
 add list=hole-blacklist address=218.44.136.154
 add list=hole-blacklist address=218.44.136.158
 add list=hole-blacklist address=218.45.225.152
+add list=hole-blacklist address=218.48.215.151
 add list=hole-blacklist address=218.49.41.202
 add list=hole-blacklist address=218.52.245.112
 add list=hole-blacklist address=218.55.177.7
